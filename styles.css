@@ -1,0 +1,33 @@
+.logo {
+    object-fit: contain;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.main-body {
+    background-color: #B22222;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 20px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.main-body-text {
+    color: white;
+    text-align: center;
+}
+
+#home-img {
+    margin-left: 36.5%;
+    /* margin-right: 50%; */
+    border-radius: 33px;
+}
+
+.crud-btn {
+    margin-left: 36.5%;
+    text-align: center;
+    color: white;
+}
